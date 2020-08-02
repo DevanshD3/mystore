@@ -19,12 +19,12 @@ body{
 
 }
 #ti{
-    margin: 20% 4ex;
+    margin: 20% 20%;
 }
 #tan{
-    margin-bottom: 4ex;
-    margin-left: 8ex;
-    margin-right: 4ex;
+    margin-bottom: 20%;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 .jumbotron{
     background-color: #00A4CC;
